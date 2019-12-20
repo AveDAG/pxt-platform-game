@@ -2,7 +2,8 @@
     "name": "platform game",
     "dependencies": {
         "device": "*",
-        "color-coded-tilemap": "*"
+        "color-coded-tilemap": "*",
+        "animation": "*"
     },
     "description": "",
     "files": [
